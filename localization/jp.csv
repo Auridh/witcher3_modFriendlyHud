@@ -1,0 +1,163 @@
+;meta[language=jp]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+;
+2110365000|        |panel_Mods|Mods
+2110365001|        |panel_friendly_hud|Friendly HUD
+2110365002|        |panel_fhud_hud|HUD
+2110365003|        |option_fhud_enableCombatModules|戦闘モジュールを有効にする
+2110365004|        |option_fhud_enableCombatModulesOnUnsheathe|抜刀時に戦闘モジュールを有効にする
+2110365005|        |option_fhud_enableWolfModuleOnVitalityChanged|体力変化時のHPゲージを有効にする
+2110365006|        |option_fhud_enableWitcherSensesModules|ウィッチャーの感覚モジュールを有効にする
+2110365007|        |option_fhud_enableMeditationModules|瞑想モジュールを有効にする
+2110365008|        |option_fhud_enableRadialMenuModules|クイックメニューモジュールを有効にする
+2110365009|        |panel_fhud_markers|3Dマーカー
+2110365010|        |option_fhud_3DMarkersEnabled|Enable 3D markers
+2110365011|        |option_fhud_compassMarkersEnabled|コンパスを有効にする
+2110365012|        |option_fhud_project3DMarkersOnCompass|3Dマーカーをコンパス上に投影する
+2110365014|        |panel_fhud_quick_items|クイックアイテム
+2110365015|        |option_fhud_enableItemsInRadialMenu|クイックメニューのクイックアイテムを有効にする
+2110365016|        |option_fhud_enableWASD|WASDキーによる選択を有効にする
+2110365017|        |option_fhud_applyOilToDrawnSword|抜いた剣にオイルを塗る
+2110365018|        |option_fhud_allowOilsInCombat|戦闘中のオイル塗布を許可する
+2110365019|        |option_fhud_radialMenuTimescale|クイックメニューのタイムスケール
+2110365031|        |panel_fhud_interactions|インタラクト
+2110365036|        |option_fhud_disableAllInteractionPrompts|インタラクトプロンプトをすべて無効にする
+2110365038|        |panel_fhud_misc|その他
+2110365040|        |option_fhud_doNotShowDamage|ダメージの浮遊表示をしない
+2110365041|        |option_fhud_doNotShowLevels|敵のレベルを表示しない
+2110365042|        |option_fhud_dontTouchMySwords|剣の持ち替えと自動納刀を許可しない
+2110365046|        |option_fhud_fadeOutTimeSeconds|モジュール非表示までの遅延時間(秒)
+2110365049|        |panel_fhud_map|地図とミニマップ
+2110365050|        |option_fhud_mapUnlimitedZoom|エリア地図のズームを無制限にする
+2110365051|        |option_fhud_mapZoomMinCoef|エリア地図の最小ズーム
+2110365052|        |option_fhud_mapZoomMaxCoef|エリア地図の最大ズーム
+2110365053|        |option_fhud_minimapZoomExterior|屋外ミニマップのズーム
+2110365054|        |option_fhud_minimapZoomInterior|屋内ミニマップのズーム
+2110365055|        |option_fhud_minimapZoomBoat|船のミニマップのズーム
+2110365056|        |option_fhud_defaultDisplayMode|デフォルトの表示モード
+2110365057|        |preset_value_fhud_displayMode_potions|霊薬
+2110365058|        |preset_value_fhud_displayMode_bombs|爆薬
+2110365059|        |preset_value_fhud_displayMode_oils|オイル
+2110365060|        |preset_value_fhud_displayMode_buffs|バフ効果
+2110365061|        |option_fhud_cycleThroughBuffs|持続時間付のバフ効果を表示する
+2110365062|        |PauseGameToggle|ゲームの一時停止
+2110365063|        |PinModuleModfier|HUDモジュールのピン止め(修飾キー)
+2110365066|        |SwitchCrossbow|石弓/爆薬の切り替え
+2110365068|        |ToggleEssentials|重要なHUDモジュールのオン/オフ
+2110365070|        |preset_value_fhud_markersDisplayMode_ws|ウィッチャーの感覚時
+2110365071|        |preset_value_fhud_markersDisplayMode_always|常に表示
+2110365072|        |preset_value_fhud_markersDisplayMode_never|表示しない
+2110365073|        |option_fhud_showItemsInSlowdownMode|スローダウンモードでクイックアイテムを表示する
+2110365074|        |option_fhud_wSensesSwitch|ウィッチャーの感覚キーの動作を切り替えにする
+2110365075|        |option_fhud_defaultInventoryTab|デフォルトの所持品タブ
+2110365076|        |preset_value_fhud_defaultInventoryTab_Equipment|装備
+2110365077|        |preset_value_fhud_defaultInventoryTab_Alchemy|錬金術
+2110365078|        |preset_value_fhud_defaultInventoryTab_Edibles|食料
+2110365079|        |preset_value_fhud_defaultInventoryTab_Quest|クエストアイテム
+2110365080|        |preset_value_fhud_defaultInventoryTab_Ingredients|材料
+2110365081|        |panel_fhud_inventory|所持品
+2110365082|        |fhud_item_quant_in_stash|個倉庫に所持
+2110365083|        |fhud_item_quant_owned|個所持
+2110365084|        |HoldToSeeEssentials|長押しで重要モジュールを見る
+2110365085|        |HoldToSeeCharStats|長押しでキャラクターモジュールを見る
+2110365086|        |HoldToSeeMap|長押しでミニマップを見る
+2110365087|        |HoldToSeeQuests|長押しで現在の目標を見る
+2110365088|        |preset_Mods_friendly_hud_fhud_hud|HUDのプリセット
+2110365089|        |preset_value_fhud_defaults|デフォルト
+2110365090|        |preset_value_fhud_vanilla|バニラ
+2110365091|        |preset_Mods_friendly_hud_fhud_markers|3Dマーカーのプリセット
+2110365092|        |preset_Mods_friendly_hud_fhud_quick_items|クイックアイテムのプリセット
+2110365093|        |preset_Mods_friendly_hud_fhud_map|地図のプリセット
+2110365094|        |preset_Mods_friendly_hud_fhud_inventory|所持品のプリセット
+2110365095|        |option_fhud_showTrueItemPrice|アイテムの価格比較の表示
+2110365096|        |option_fhud_stashItemQuantity|倉庫のアイテム数の表示
+2110365097|        |preset_Mods_friendly_hud_fhud_interactions|インタラクトのプリセット
+2110365098|        |preset_Mods_friendly_hud_fhud_misc|その他のプリセット
+2110365099|        |preset_value_fhud_compass|コンパス
+2110365101|        |option_fhud_hideJournalUpdates|ジャーナル更新の非表示
+2110365102|        |option_fhud_silentJournalUpdates|ジャーナル更新音なし
+2110365103|        |option_fhud_disableCatWhenNotInDarkPlace|洞窟の外では猫の目エフェクトを一時停止
+2110365104|        |option_fhud_enableCatAtNight|夜は猫の目エフェクトの一時停止を解除
+2110365105|        |option_fhud_talkBubbleMode|NPCの吹き出しの表示モード
+2110365106|        |preset_value_fhud_interactionMode_All|全て
+2110365107|        |preset_value_fhud_interactionMode_Icon|アイコン
+2110365108|        |preset_value_fhud_interactionMode_Text|テキスト
+2110365109|        |preset_value_fhud_interactionMode_None|なし
+2110365110|        |option_fhud_talkButtonMode|NPCの会話ボタンの表示モード
+2110365111|        |option_fhud_interactionButtonMode|インタラクトボタンの表示モード
+2110365112|        |option_fhud_hideWSInteractionIcons|ウィッチャーの感覚のインタラクトヒント非表示
+2110365113|        |option_fhud_maxDistanceToShowNames|名前を表示する最大距離(バニラは0)
+2110365114|        |option_fhud_hideAnimalNames|動物の名前を表示しない
+2110365115|        |option_fhud_hideHerbNames|薬草の名前を表示しない
+2110365116|        |option_fhud_hideNPCQuestMarkers|NPCのクエストマーカーを表示しない
+2110365117|        |panel_fhud_mainMenu|メインメニュー
+2110365118|        |option_fhud_mainMenuMode|メインメニューのモード
+2110365119|        |preset_value_fhud_mainMenuMode_default|デフォルト
+2110365120|        |preset_value_fhud_mainMenuMode_random|ランダム
+2110365121|        |preset_value_fhud_mainMenuMode_base|本編
+2110365122|        |preset_value_fhud_mainMenuMode_hos|無情なる心
+2110365123|        |preset_value_fhud_mainMenuMode_baw|血塗られた美酒
+2110365124|        |option_fhud_hideDLC|導入済DLCアイコンの非表示
+2110365125|        |preset_value_fhud_goty|GOTY
+2110365126|        |preset_Mods_friendly_hud_fhud_mainMenu|メインメニューのプリセット
+2110365127|        |option_fhud_recyclingParts|Show item recycling components
+2110365128|        |fhud_recycling_parts|Recycling components
+2110365129|        |option_fhud_itemCountWhenCrafting|Show item count for alchemy and crafting
+2110365130|        |option_fhud_resetNewItemsIngredients|Reset new item flag for Ingredients categories
+2110365131|        |option_fhud_resetNewItemsQuest|Reset new item flag for Quest category
+2110365132|        |option_fhud_resetNewItemsOthers|Reset new item flag for Others category
+2110365133|        |option_fhud_resetNewItemsEdibles|Reset new item flag for Edibles category
+2110365134|        |option_fhud_resetNewItemsRoach|Reset new item flag for Roach category
+2110365135|        |option_fhud_resetNewItemsAlchemy|Reset new item flag for Alchemy category
+2110365136|        |option_fhud_resetNewItemsEquipment|Reset new item flag for Equipment categories
+2110365137|        |option_fhud_markersDistanceTextSize|Distance text size
+2110365138|        |option_fhud_markersDescriptionTextSize|Description text size
+2110365139|        |option_fhud_markersAltTextSize|Alternative text size
+2110365140|        |option_fhud_markersIconSizePrc|Icon size (percents)
+2110365141|        |option_fhud_markerMinDistance|Min distance to display markers
+2110365142|        |option_fhud_markerMaxDistance|Max distance to display markers
+2110365143|        |option_fhud_markerDescriptionDisplayMode|Description display mode
+2110365144|        |option_fhud_markerIconDisplayMode|Icon display mode
+2110365145|        |option_fhud_markerDistanceDisplayMode|Distance display mode
+2110365146|        |option_fhud_markerCompassDisplayMode|Compass display mode
+2110365147|        |option_fhud_markerOnScreenOnly|Show on screen markers only
+2110365148|        |option_fhud_compassScreenPosY|Compass screen position Y
+2110365150|        |option_fhud_markerIconType|Icon type
+2110365151|        |preset_value_fhud_markerIconType_icon|Icon
+2110365152|        |preset_value_fhud_markerIconType_icon_bw|Icon b&w
+2110365153|        |preset_value_fhud_markerIconType_text|Text
+2110365154|        |preset_value_fhud_markerIconType_text_bw|Text b&w
+2110365155|        |option_fhud_markersFadeOutDelay|Markers fade out delay (seconds)
+2110365156|        |preset_value_fhud_minimalistic|Minimalistic
+2110365157|        |option_fhud_markersShowQuests|Show active quest
+2110365158|        |option_fhud_markersShowQuestsAll|Show inactive quests
+2110365159|        |option_fhud_markersShowUser|Show user marker
+2110365161|        |option_fhud_markersShowUserAll|Show additional user markers
+2110365162|        |option_fhud_markersShowMapLoc|Show map locations
+2110365163|        |option_fhud_markersShowNPCs|Show NPCs
+2110365164|        |option_fhud_markersShowPOIs|Show POIs
+2110365165|        |option_fhud_markersShowDisabled|Show completed POIs
+2110365166|        |option_fhud_markersShowUndiscovered|Show undiscovered POIs
+2110365167|        |option_fhud_markersShowMisc|Show miscellaneous markers
+2110365168|        |option_fhud_markersShowHerbs|Show herbs
+2110365169|        |option_fhud_markersShowEnemies|Show enemies
+2110365170|        |option_fhud_markersShowDeadEnemies|Show dead enemies
+2110365171|        |option_fhud_markersShowWSClues|Show witcher sense clues
+2110365172|        |preset_value_fhud_markerVisibility_show|Show
+2110365173|        |preset_value_fhud_markerVisibility_hide|Hide
+2110365174|        |preset_value_fhud_markerVisibility_pin|Pin
+2110365175|        |preset_value_fhud_markerVisibility_force|Force
+2110365176|        |Toggle3DMarkers|Force show 3D markers
+2110365177|        |option_fhud_markerHideActivities|Hide inactive activities
+2110365178|        |option_fhud_markerShowUndiscoveredRoadsigns|Show undiscovered roadsigns
+2110365179|        |option_fhud_markerPinWithUserMarker|Allow user-pinned markers
+2110365180|        |option_fhud_markersSyncWithMap|Hide markers disabled in area map
+2110365181|        |option_fhud_markersTransparency|Markers transparency (percents)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|Max distance to show names in combat (0 - vanilla)
+2110365183|        |preset_value_fhud_levelVisibility_show|Show
+2110365184|        |preset_value_fhud_levelVisibility_hide|Hide
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|Red Skull Only
+2110365186|        |option_fhud_showBossHP|Show normal HP bar and lock icon for bosses

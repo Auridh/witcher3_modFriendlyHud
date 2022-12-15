@@ -1,0 +1,163 @@
+;meta[language=ru]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+;
+2110365000|        |panel_Mods|Моды
+2110365001|        |panel_friendly_hud|Friendly HUD
+2110365002|        |panel_fhud_hud|Модули HUD
+2110365003|        |option_fhud_enableCombatModules|Включить боевые модули
+2110365004|        |option_fhud_enableCombatModulesOnUnsheathe|Показывать боевые модули при обнажении меча
+2110365005|        |option_fhud_enableWolfModuleOnVitalityChanged|Отображать здоровье при его изменении
+2110365006|        |option_fhud_enableWitcherSensesModules|Включить модули ведьмачьего чутья
+2110365007|        |option_fhud_enableMeditationModules|Включить модули медитации
+2110365008|        |option_fhud_enableRadialMenuModules|Включить модули радиального меню
+2110365009|        |panel_fhud_markers|3D маркеры
+2110365010|        |option_fhud_3DMarkersEnabled|Включить 3D маркеры
+2110365011|        |option_fhud_compassMarkersEnabled|Включить компас
+2110365012|        |option_fhud_project3DMarkersOnCompass|Проецировать 3D маркеры на компас
+2110365014|        |panel_fhud_quick_items|Быстрый доступ
+2110365015|        |option_fhud_enableItemsInRadialMenu|Включить быстрый доступ к предметам через радиальное меню
+2110365016|        |option_fhud_enableWASD|Разрешить навигацию с помощью WASD
+2110365017|        |option_fhud_applyOilToDrawnSword|Наносить масло только на обнажённый меч
+2110365018|        |option_fhud_allowOilsInCombat|Разрешить нанесение масел в бою
+2110365019|        |option_fhud_radialMenuTimescale|Масштаб времени в радиальном меню
+2110365031|        |panel_fhud_interactions|Взаимодействие
+2110365036|        |option_fhud_disableAllInteractionPrompts|Отключить все подсказки взаимодействия
+2110365038|        |panel_fhud_misc|Разное
+2110365040|        |option_fhud_doNotShowDamage|Скрыть всплывающие данные об уроне
+2110365041|        |option_fhud_doNotShowLevels|Скрыть уровни противников
+2110365042|        |option_fhud_dontTouchMySwords|Запретить авто-переключение и авто-убирание мечей
+2110365046|        |option_fhud_fadeOutTimeSeconds|Время исчезания модулей (секунды)
+2110365049|        |panel_fhud_map|Карта
+2110365050|        |option_fhud_mapUnlimitedZoom|Включить свободное масштабирование карты
+2110365051|        |option_fhud_mapZoomMinCoef|Минимальное увеличение для карты региона
+2110365052|        |option_fhud_mapZoomMaxCoef|Максимальное увеличение для карты региона
+2110365053|        |option_fhud_minimapZoomExterior|Масштаб мини-карты
+2110365054|        |option_fhud_minimapZoomInterior|Масштаб мини-карты в помещениях
+2110365055|        |option_fhud_minimapZoomBoat|Масштаб мини-карты в лодке
+2110365056|        |option_fhud_defaultDisplayMode|Режим отображения по умолчанию
+2110365057|        |preset_value_fhud_displayMode_potions|Зелья
+2110365058|        |preset_value_fhud_displayMode_bombs|Бомбы
+2110365059|        |preset_value_fhud_displayMode_oils|Масла
+2110365060|        |preset_value_fhud_displayMode_buffs|Эффекты
+2110365061|        |option_fhud_cycleThroughBuffs|Показывать эффекты при циклическом переключении
+2110365062|        |PauseGameToggle|Пауза
+2110365063|        |PinModuleModfier|Закрепить модуль HUD (модификатор)
+2110365066|        |SwitchCrossbow|Переключиться между арбалетом и бомбой
+2110365068|        |ToggleEssentials|Вкл/выкл основные модули HUD
+2110365070|        |preset_value_fhud_markersDisplayMode_ws|Ведьмачье чутьё
+2110365071|        |preset_value_fhud_markersDisplayMode_always|Всегда
+2110365072|        |preset_value_fhud_markersDisplayMode_never|Никогда
+2110365073|        |option_fhud_showItemsInSlowdownMode|Показывать быстрые предметы в режиме замедления
+2110365074|        |option_fhud_wSensesSwitch|Клавиша ведьмачьего чутья работает как переключатель
+2110365075|        |option_fhud_defaultInventoryTab|Вкладка инвентаря по умолчанию
+2110365076|        |preset_value_fhud_defaultInventoryTab_Equipment|Снаряжение
+2110365077|        |preset_value_fhud_defaultInventoryTab_Alchemy|Алхимия
+2110365078|        |preset_value_fhud_defaultInventoryTab_Edibles|Пища
+2110365079|        |preset_value_fhud_defaultInventoryTab_Quest|Квестовые предметы
+2110365080|        |preset_value_fhud_defaultInventoryTab_Ingredients|Ингредиенты
+2110365081|        |panel_fhud_inventory|Инвентарь
+2110365082|        |fhud_item_quant_in_stash|в тайнике
+2110365083|        |fhud_item_quant_owned|уже есть
+2110365084|        |HoldToSeeEssentials|Зажми для включения основных модулей
+2110365085|        |HoldToSeeCharStats|Зажми для включения модулей статистики
+2110365086|        |HoldToSeeMap|Зажми для включения мини-карты
+2110365087|        |HoldToSeeQuests|Зажми для включения модуля заданий
+2110365088|        |preset_Mods_friendly_hud_fhud_hud|Предустановки HUD
+2110365089|        |preset_value_fhud_defaults|По умолчанию
+2110365090|        |preset_value_fhud_vanilla|Оригинал
+2110365091|        |preset_Mods_friendly_hud_fhud_markers|Предустановки 3D маркеров
+2110365092|        |preset_Mods_friendly_hud_fhud_quick_items|Предустановки быстрого доступа
+2110365093|        |preset_Mods_friendly_hud_fhud_map|Предустановки  карты
+2110365094|        |preset_Mods_friendly_hud_fhud_inventory|Предустановки инвентаря
+2110365095|        |option_fhud_showTrueItemPrice|Показывать сравнительную цену предмета
+2110365096|        |option_fhud_stashItemQuantity|Показывать количество предметов в тайнике
+2110365097|        |preset_Mods_friendly_hud_fhud_interactions|Предустановки взаимодействия
+2110365098|        |preset_Mods_friendly_hud_fhud_misc|Предустановки разного
+2110365099|        |preset_value_fhud_compass|Компас
+2110365101|        |option_fhud_hideJournalUpdates|Не показывать обновления журнала
+2110365102|        |option_fhud_silentJournalUpdates|Не проигрывать звук во время обновления журнала
+2110365103|        |option_fhud_disableCatWhenNotInDarkPlace|Приостанавливать эффект Кошки вне пещер
+2110365104|        |option_fhud_enableCatAtNight|Возобновлять эффект Кошки ночью
+2110365105|        |option_fhud_talkBubbleMode|Режим показа подсказки "поговорить" издалека
+2110365106|        |preset_value_fhud_interactionMode_All|Всё
+2110365107|        |preset_value_fhud_interactionMode_Icon|Иконка
+2110365108|        |preset_value_fhud_interactionMode_Text|Текст
+2110365109|        |preset_value_fhud_interactionMode_None|Ничего
+2110365110|        |option_fhud_talkButtonMode|Режим показа подсказки "поговорить" вблизи
+2110365111|        |option_fhud_interactionButtonMode|Режим показа подсказок взаимодействия
+2110365112|        |option_fhud_hideWSInteractionIcons|Скрыть подсказки взаимодействия в ведьмачьем чутье
+2110365113|        |option_fhud_maxDistanceToShowNames|Макс. расстояние для отображения имени (0 - оригинал)
+2110365114|        |option_fhud_hideAnimalNames|Скрыть названия животных
+2110365115|        |option_fhud_hideHerbNames|Скрыть названия растений
+2110365116|        |option_fhud_hideNPCQuestMarkers|Скрыть иконки заданий над персонажами
+2110365117|        |panel_fhud_mainMenu|Главное меню
+2110365118|        |option_fhud_mainMenuMode|Режим главного меню
+2110365119|        |preset_value_fhud_mainMenuMode_default|По умолчанию
+2110365120|        |preset_value_fhud_mainMenuMode_random|Случайное
+2110365121|        |preset_value_fhud_mainMenuMode_base|Основная игра
+2110365122|        |preset_value_fhud_mainMenuMode_hos|Каменные сердца
+2110365123|        |preset_value_fhud_mainMenuMode_baw|Кровь и вино
+2110365124|        |option_fhud_hideDLC|Скрыть иконки установленных DLC
+2110365125|        |preset_value_fhud_goty|GOTY
+2110365126|        |preset_Mods_friendly_hud_fhud_mainMenu|Предустановки главного меню
+2110365127|        |option_fhud_recyclingParts|Показывать компоненты
+2110365128|        |fhud_recycling_parts|Компоненты
+2110365129|        |option_fhud_itemCountWhenCrafting|Показывать количество предметов в меню алхимии и крафта
+2110365130|        |option_fhud_resetNewItemsIngredients|Сбрасывать метки новых предметов для ингредиентов
+2110365131|        |option_fhud_resetNewItemsQuest|Сбрасывать метки новых предметов для категории Задания
+2110365132|        |option_fhud_resetNewItemsOthers|Сбрасывать метки новых предметов для категории Прочее
+2110365133|        |option_fhud_resetNewItemsEdibles|Сбрасывать метки новых предметов для категории Еда
+2110365134|        |option_fhud_resetNewItemsRoach|Сбрасывать метки новых предметов для категории Плотва
+2110365135|        |option_fhud_resetNewItemsAlchemy|Сбрасывать метки новых предметов для категорий алхимии
+2110365136|        |option_fhud_resetNewItemsEquipment|Сбрасывать метки новых предметов для снаряжения
+2110365137|        |option_fhud_markersDistanceTextSize|Размер текста для цифр расстояния
+2110365138|        |option_fhud_markersDescriptionTextSize|Размер текста описания
+2110365139|        |option_fhud_markersAltTextSize|Размер альтернативного текста
+2110365140|        |option_fhud_markersIconSizePrc|Размер иконок (проценты)
+2110365141|        |option_fhud_markerMinDistance|Мин. расстояние для показа маркеров
+2110365142|        |option_fhud_markerMaxDistance|Макс. расстояние для показа маркеров
+2110365143|        |option_fhud_markerDescriptionDisplayMode|Режим отображения описания
+2110365144|        |option_fhud_markerIconDisplayMode|Режим отображения иконки
+2110365145|        |option_fhud_markerDistanceDisplayMode|Режим отображения расстояния
+2110365146|        |option_fhud_markerCompassDisplayMode|Режим отображения компаса
+2110365147|        |option_fhud_markerOnScreenOnly|Показывать только маркеры в видимой области
+2110365148|        |option_fhud_compassScreenPosY|Положение компаса по Y
+2110365150|        |option_fhud_markerIconType|Тип иконки
+2110365151|        |preset_value_fhud_markerIconType_icon|Иконка
+2110365152|        |preset_value_fhud_markerIconType_icon_bw|Иконка ч/б
+2110365153|        |preset_value_fhud_markerIconType_text|Текст
+2110365154|        |preset_value_fhud_markerIconType_text_bw|Текст ч/б
+2110365155|        |option_fhud_markersFadeOutDelay|Время исчезания маркеров (секунды)
+2110365156|        |preset_value_fhud_minimalistic|Минималист.
+2110365157|        |option_fhud_markersShowQuests|Показывать активный квест
+2110365158|        |option_fhud_markersShowQuestsAll|Показывать неактивные квесты
+2110365159|        |option_fhud_markersShowUser|Показывать пользовательский маркер
+2110365161|        |option_fhud_markersShowUserAll|Показывать доп. пользовательские маркеры
+2110365162|        |option_fhud_markersShowMapLoc|Показывать отметки на карте
+2110365163|        |option_fhud_markersShowNPCs|Показывать персонажей
+2110365164|        |option_fhud_markersShowPOIs|Показывать точки интереса
+2110365165|        |option_fhud_markersShowDisabled|Показывать исследованные точки интереса
+2110365166|        |option_fhud_markersShowUndiscovered|Показывать неоткрытые точки интереса
+2110365167|        |option_fhud_markersShowMisc|Показывать прочие маркеры
+2110365168|        |option_fhud_markersShowHerbs|Показывать растения
+2110365169|        |option_fhud_markersShowEnemies|Показывать врагов
+2110365170|        |option_fhud_markersShowDeadEnemies|Показывать тела
+2110365171|        |option_fhud_markersShowWSClues|Показывать подсказки чутья
+2110365172|        |preset_value_fhud_markerVisibility_show|Показать
+2110365173|        |preset_value_fhud_markerVisibility_hide|Скрыть
+2110365174|        |preset_value_fhud_markerVisibility_pin|Закрепить
+2110365175|        |preset_value_fhud_markerVisibility_force|Форсировать
+2110365176|        |Toggle3DMarkers|Форсировать 3D маркеры
+2110365177|        |option_fhud_markerHideActivities|Скрыть неактивные развлечения
+2110365178|        |option_fhud_markerShowUndiscoveredRoadsigns|Показать неоткрытые точки перехода
+2110365179|        |option_fhud_markerPinWithUserMarker|Разрешить закрепленные пользователем маркеры
+2110365180|        |option_fhud_markersSyncWithMap|Скрыть отключенные через карту маркеры
+2110365181|        |option_fhud_markersTransparency|Прозрачность маркеров (проценты)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|Макс. расстояние для отображения имени в бою (0 - оригинал)
+2110365183|        |preset_value_fhud_levelVisibility_show|Показать
+2110365184|        |preset_value_fhud_levelVisibility_hide|Скрыть
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|Только красный череп
+2110365186|        |option_fhud_showBossHP|Иконка захвата цели и норм. индикатор здоровья для боссов

@@ -1,0 +1,163 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+;
+2110365000|        |panel_Mods|Mods
+2110365001|        |panel_friendly_hud|Friendly HUD
+2110365002|        |panel_fhud_hud|HUD
+2110365003|        |option_fhud_enableCombatModules|战斗模块
+2110365004|        |option_fhud_enableCombatModulesOnUnsheathe|拔剑时启用战斗模块
+2110365005|        |option_fhud_enableWolfModuleOnVitalityChanged|活力值变化时显示血条
+2110365006|        |option_fhud_enableWitcherSensesModules|巫师感官模块（需在游戏设置关闭小地图和当前任务）
+2110365007|        |option_fhud_enableMeditationModules|冥想模块（需要Friendly Meditation MOD）
+2110365008|        |option_fhud_enableRadialMenuModules|轮盘菜单模块
+2110365009|        |panel_fhud_markers|3D标记
+2110365010|        |option_fhud_3DMarkersEnabled|启用3D标记
+2110365011|        |option_fhud_compassMarkersEnabled|启用罗盘
+2110365012|        |option_fhud_project3DMarkersOnCompass|在罗盘上显示3D标记
+2110365014|        |panel_fhud_quick_items|快捷物品栏
+2110365015|        |option_fhud_enableItemsInRadialMenu|在轮盘中启用快捷物品栏
+2110365016|        |option_fhud_enableWASD|启用方向键选择
+2110365017|        |option_fhud_applyOilToDrawnSword|已拔出的剑自动上油
+2110365018|        |option_fhud_allowOilsInCombat|允许战斗中上油
+2110365019|        |option_fhud_radialMenuTimescale|按住轮盘菜单热键使游戏进入慢动作的速率
+2110365031|        |panel_fhud_interactions|互动
+2110365036|        |option_fhud_disableAllInteractionPrompts|隐藏所有互动提示按钮
+2110365038|        |panel_fhud_misc|杂项
+2110365040|        |option_fhud_doNotShowDamage|隐藏浮动伤害文字
+2110365041|        |option_fhud_doNotShowLevels|隐藏敌人等级
+2110365042|        |option_fhud_dontTouchMySwords|禁用双剑切换和自动收剑
+2110365046|        |option_fhud_fadeOutTimeSeconds|隐藏模块延迟 (秒)
+2110365049|        |panel_fhud_map|区域地图和小地图
+2110365050|        |option_fhud_mapUnlimitedZoom|区域地图无限缩放
+2110365051|        |option_fhud_mapZoomMinCoef|区域地图最小缩放
+2110365052|        |option_fhud_mapZoomMaxCoef|区域地图最大缩放
+2110365053|        |option_fhud_minimapZoomExterior|室外小地图缩放
+2110365054|        |option_fhud_minimapZoomInterior|室内小地图缩放
+2110365055|        |option_fhud_minimapZoomBoat|船上小地图缩放
+2110365056|        |option_fhud_defaultDisplayMode|快捷物品栏默认显示
+2110365057|        |preset_value_fhud_displayMode_potions|药水
+2110365058|        |preset_value_fhud_displayMode_bombs|炸弹
+2110365059|        |preset_value_fhud_displayMode_oils|剑油
+2110365060|        |preset_value_fhud_displayMode_buffs|增益效果
+2110365061|        |option_fhud_cycleThroughBuffs|为快捷物品栏增加BUFF显示页面（按Q以快速切换）
+2110365062|        |PauseGameToggle|暂定游戏
+2110365063|        |PinModuleModfier|图钉键（同时按下图钉键和其他HUD热键以使其总是显示）
+2110365066|        |SwitchCrossbow|切换 十字弩/炸弹
+2110365068|        |ToggleEssentials|总是显示所有HUD 开/关
+2110365070|        |preset_value_fhud_markersDisplayMode_ws|巫师感官时显示
+2110365071|        |preset_value_fhud_markersDisplayMode_always|总是显示
+2110365072|        |preset_value_fhud_markersDisplayMode_never|从不显示
+2110365073|        |option_fhud_showItemsInSlowdownMode|在慢速模式下显示快捷物品栏
+2110365074|        |option_fhud_wSensesSwitch|巫师感官变为开关模式（该功能已删除）
+2110365075|        |option_fhud_defaultInventoryTab|打开背包时默认显示
+2110365076|        |preset_value_fhud_defaultInventoryTab_Equipment|装备
+2110365077|        |preset_value_fhud_defaultInventoryTab_Alchemy|炼金
+2110365078|        |preset_value_fhud_defaultInventoryTab_Edibles|食物
+2110365079|        |preset_value_fhud_defaultInventoryTab_Quest|任务品
+2110365080|        |preset_value_fhud_defaultInventoryTab_Ingredients|原料
+2110365081|        |panel_fhud_inventory|物品栏
+2110365082|        |fhud_item_quant_in_stash|物品栏中有
+2110365083|        |fhud_item_quant_owned|已拥有
+2110365084|        |HoldToSeeEssentials|按住以显示所有HUD
+2110365085|        |HoldToSeeCharStats|按住以显示血量和物品HUD
+2110365086|        |HoldToSeeMap|按住以显示小地图HUD
+2110365087|        |HoldToSeeQuests|按住以显示当前任务HUD
+2110365088|        |preset_Mods_friendly_hud_fhud_hud|HUD预设方案
+2110365089|        |preset_value_fhud_defaults|默认
+2110365090|        |preset_value_fhud_vanilla|游戏默认设定
+2110365091|        |preset_Mods_friendly_hud_fhud_markers|3D标记预设方案
+2110365092|        |preset_Mods_friendly_hud_fhud_quick_items|快捷物品栏预设方案
+2110365093|        |preset_Mods_friendly_hud_fhud_map|地图预设方案
+2110365094|        |preset_Mods_friendly_hud_fhud_inventory|物品栏预设方案
+2110365095|        |option_fhud_showTrueItemPrice|显示物品价格比较
+2110365096|        |option_fhud_stashItemQuantity|显示已有的物品数量
+2110365097|        |preset_Mods_friendly_hud_fhud_interactions|互动预设方案
+2110365098|        |preset_Mods_friendly_hud_fhud_misc|杂项预设方案
+2110365099|        |preset_value_fhud_compass|罗盘模式
+2110365101|        |option_fhud_hideJournalUpdates|隐藏日志更新信息
+2110365102|        |option_fhud_silentJournalUpdates|关闭日志更新音效
+2110365103|        |option_fhud_disableCatWhenNotInDarkPlace|离开洞穴时暂停“猫”药水效果
+2110365104|        |option_fhud_enableCatAtNight|夜晚时继续“猫”药水效果
+2110365105|        |option_fhud_talkBubbleMode|NPC对话气泡显示模式
+2110365106|        |preset_value_fhud_interactionMode_All|全部显示
+2110365107|        |preset_value_fhud_interactionMode_Icon|只显示图标
+2110365108|        |preset_value_fhud_interactionMode_Text|只显示文字
+2110365109|        |preset_value_fhud_interactionMode_None|不显示
+2110365110|        |option_fhud_talkButtonMode|NPC对话按钮显示模式
+2110365111|        |option_fhud_interactionButtonMode|互动按钮显示模式
+2110365112|        |option_fhud_hideWSInteractionIcons|隐藏巫师感官时的互动按钮图标
+2110365113|        |option_fhud_maxDistanceToShowNames|显示人名最大距离 (0 - 游戏默认设定)
+2110365114|        |option_fhud_hideAnimalNames|隐藏动物名字
+2110365115|        |option_fhud_hideHerbNames|隐藏草药名字
+2110365116|        |option_fhud_hideNPCQuestMarkers|隐藏NPC任务标识
+2110365117|        |panel_fhud_mainMenu|主菜单
+2110365118|        |option_fhud_mainMenuMode|主菜单背景动画
+2110365119|        |preset_value_fhud_mainMenuMode_default|默认
+2110365120|        |preset_value_fhud_mainMenuMode_random|随机显示
+2110365121|        |preset_value_fhud_mainMenuMode_base|游戏本体
+2110365122|        |preset_value_fhud_mainMenuMode_hos|石之心
+2110365123|        |preset_value_fhud_mainMenuMode_baw|血与酒
+2110365124|        |option_fhud_hideDLC|隐藏已安装DLC标识
+2110365125|        |preset_value_fhud_goty|年度版GOTY
+2110365126|        |preset_Mods_friendly_hud_fhud_mainMenu|主菜单预设方案
+2110365127|        |option_fhud_recyclingParts|显示杂物分解后可得的材料
+2110365128|        |fhud_recycling_parts|分解后可得到
+2110365129|        |option_fhud_itemCountWhenCrafting|显示炼金/锻造原料数量
+2110365130|        |option_fhud_resetNewItemsIngredients|隐藏新物品标识 原料类
+2110365131|        |option_fhud_resetNewItemsQuest|隐藏新物品标识 任务品类
+2110365132|        |option_fhud_resetNewItemsOthers|隐藏新物品标识 其他类
+2110365133|        |option_fhud_resetNewItemsEdibles|隐藏新物品标识 食物类
+2110365134|        |option_fhud_resetNewItemsRoach|隐藏新物品标识 坐骑装备类
+2110365135|        |option_fhud_resetNewItemsAlchemy|隐藏新物品标识 炼金类
+2110365136|        |option_fhud_resetNewItemsEquipment|隐藏新物品标识 装备类
+2110365137|        |option_fhud_markersDistanceTextSize|距离文字大小
+2110365138|        |option_fhud_markersDescriptionTextSize|图标文字大小
+2110365139|        |option_fhud_markersAltTextSize|替代文字大小
+2110365140|        |option_fhud_markersIconSizePrc|图标大小 (%)
+2110365141|        |option_fhud_markerMinDistance|最小显示图标距离
+2110365142|        |option_fhud_markerMaxDistance|最大显示图标距离
+2110365143|        |option_fhud_markerDescriptionDisplayMode|图标文字显示模式
+2110365144|        |option_fhud_markerIconDisplayMode|图标显示模式
+2110365145|        |option_fhud_markerDistanceDisplayMode|距离显示模式
+2110365146|        |option_fhud_markerCompassDisplayMode|罗盘显示模式
+2110365147|        |option_fhud_markerOnScreenOnly|只显示镜头面向的图标
+2110365148|        |option_fhud_compassScreenPosY|罗盘屏幕位置 Y
+2110365150|        |option_fhud_markerIconType|图标类型
+2110365151|        |preset_value_fhud_markerIconType_icon|图标
+2110365152|        |preset_value_fhud_markerIconType_icon_bw|黑白图标
+2110365153|        |preset_value_fhud_markerIconType_text|文字
+2110365154|        |preset_value_fhud_markerIconType_text_bw|黑白文字
+2110365155|        |option_fhud_markersFadeOutDelay|图标渐隐延时 (秒)
+2110365156|        |preset_value_fhud_minimalistic|极简模式
+2110365157|        |option_fhud_markersShowQuests|显示已激活任务
+2110365158|        |option_fhud_markersShowQuestsAll|显示闲置任务
+2110365159|        |option_fhud_markersShowUser|显示玩家的标记（绿标）
+2110365161|        |option_fhud_markersShowUserAll|显示玩家设置的额外标记（红骷髅等）
+2110365162|        |option_fhud_markersShowMapLoc|显示区域地图追踪标记（马、船锚等）
+2110365163|        |option_fhud_markersShowNPCs|显示NPC 
+2110365164|        |option_fhud_markersShowPOIs|显示有趣地点
+2110365165|        |option_fhud_markersShowDisabled|显示已探索的有趣地点
+2110365166|        |option_fhud_markersShowUndiscovered|显示未探索的有趣地点
+2110365167|        |option_fhud_markersShowMisc|显示杂项标记
+2110365168|        |option_fhud_markersShowHerbs|显示草药
+2110365169|        |option_fhud_markersShowEnemies|显示敌人
+2110365170|        |option_fhud_markersShowDeadEnemies|显示死亡敌人
+2110365171|        |option_fhud_markersShowWSClues|巫师感官线索提示（需在游戏设置开启小地图巫师感官提示）
+2110365172|        |preset_value_fhud_markerVisibility_show|距离内显示
+2110365173|        |preset_value_fhud_markerVisibility_hide|不显示
+2110365174|        |preset_value_fhud_markerVisibility_pin|无视距离显示
+2110365175|        |preset_value_fhud_markerVisibility_force|距离内强制显示
+2110365176|        |Toggle3DMarkers|强制显示3D标记
+2110365177|        |option_fhud_markerHideActivities|隐藏未激活的任务目标
+2110365178|        |option_fhud_markerShowUndiscoveredRoadsigns|显示未发现的路标
+2110365179|        |option_fhud_markerPinWithUserMarker|在其他标记上放置绿标以使其无视距离强制显示
+2110365180|        |option_fhud_markersSyncWithMap|隐藏区域地图中未追踪的标记
+2110365181|        |option_fhud_markersTransparency|标记透明度 (%)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|战斗中最大显示名字距离 (0 - 游戏默认设定)
+2110365183|        |preset_value_fhud_levelVisibility_show|显示
+2110365184|        |preset_value_fhud_levelVisibility_hide|隐藏
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|仅显示红色骷髅头
+2110365186|        |option_fhud_showBossHP|BOSS战显示普通血条和锁定标记

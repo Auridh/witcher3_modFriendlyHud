@@ -1,0 +1,163 @@
+;meta[language=es]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+;
+2110365000|        |panel_Mods|Mods
+2110365001|        |panel_friendly_hud|Friendly HUD
+2110365002|        |panel_fhud_hud|HUD
+2110365003|        |option_fhud_enableCombatModules|Activar módulos de combate
+2110365004|        |option_fhud_enableCombatModulesOnUnsheathe|Activar módulos de combate al desenvainar espada
+2110365005|        |option_fhud_enableWolfModuleOnVitalityChanged|Activar barra de PV al cambiar la vitalidad
+2110365006|        |option_fhud_enableWitcherSensesModules|Activar módulos de sentidos de brujo
+2110365007|        |option_fhud_enableMeditationModules|Activar módulos de meditación
+2110365008|        |option_fhud_enableRadialMenuModules|Activar módulos del menú radial
+2110365009|        |panel_fhud_markers|Marcadores 3D
+2110365010|        |option_fhud_3DMarkersEnabled|Activar marcadores 3D
+2110365011|        |option_fhud_compassMarkersEnabled|Activar brújula
+2110365012|        |option_fhud_project3DMarkersOnCompass|Proyectar marcadores 3D en la brújula
+2110365014|        |panel_fhud_quick_items|Objetos rápidos
+2110365015|        |option_fhud_enableItemsInRadialMenu|Activar objetos rápidos en el menú radial
+2110365016|        |option_fhud_enableWASD|Activar selección WASD
+2110365017|        |option_fhud_applyOilToDrawnSword|Aplicar aceite en la espada utilizada
+2110365018|        |option_fhud_allowOilsInCombat|Permitir la aplicación de aceites en combate
+2110365019|        |option_fhud_radialMenuTimescale|Escala de tiempo dentro del menú radial
+2110365031|        |panel_fhud_interactions|Interacción
+2110365036|        |option_fhud_disableAllInteractionPrompts|Desactivar todas las opciones de interacción
+2110365038|        |panel_fhud_misc|Misceláneos
+2110365040|        |option_fhud_doNotShowDamage|Ocultar la información flotante sobre el daño
+2110365041|        |option_fhud_doNotShowLevels|Ocultar nivel del enemigo
+2110365042|        |option_fhud_dontTouchMySwords|No permitir cambiar/envainar espadas automáticamente
+2110365046|        |option_fhud_fadeOutTimeSeconds|Demora al ocultar módulos
+2110365049|        |panel_fhud_map|Mapa y minimapa
+2110365050|        |option_fhud_mapUnlimitedZoom|Zoom ilimitado en el mapa
+2110365051|        |option_fhud_mapZoomMinCoef|Zoom mínimo en el mapa
+2110365052|        |option_fhud_mapZoomMaxCoef|Zoom máximo en el mapa
+2110365053|        |option_fhud_minimapZoomExterior|Zoom exterior del minimapa
+2110365054|        |option_fhud_minimapZoomInterior|Zoom interior del minimapa
+2110365055|        |option_fhud_minimapZoomBoat|Zoom del minimapa en barco
+2110365056|        |option_fhud_defaultDisplayMode|Modo de visualización por defecto
+2110365057|        |preset_value_fhud_displayMode_potions|Pociones
+2110365058|        |preset_value_fhud_displayMode_bombs|Bombas
+2110365059|        |preset_value_fhud_displayMode_oils|Aceites
+2110365060|        |preset_value_fhud_displayMode_buffs|Bonificaciones
+2110365061|        |option_fhud_cycleThroughBuffs|Mostrar bonificaciones activas al cambiar
+2110365062|        |PauseGameToggle|Pausar juego
+2110365063|        |PinModuleModfier|Anclar módulo del HUD (modificador)
+2110365066|        |SwitchCrossbow|Cambiar ballesta/bomba
+2110365068|        |ToggleEssentials|Activar/desactivar los módulos esenciales del HUD
+2110365070|        |preset_value_fhud_markersDisplayMode_ws|Sentidos de brujo
+2110365071|        |preset_value_fhud_markersDisplayMode_always|Mostrar siempre
+2110365072|        |preset_value_fhud_markersDisplayMode_never|No mostrar nunca
+2110365073|        |option_fhud_showItemsInSlowdownMode|Mostrar objetos rápidos en el modo de desaceleración
+2110365074|        |option_fhud_wSensesSwitch|Los sentidos de brujo se comportan como un conmutador
+2110365075|        |option_fhud_defaultInventoryTab|Pestaña por defecto del inventario
+2110365076|        |preset_value_fhud_defaultInventoryTab_Equipment|Equipamiento
+2110365077|        |preset_value_fhud_defaultInventoryTab_Alchemy|Alquimia
+2110365078|        |preset_value_fhud_defaultInventoryTab_Edibles|Consumibles
+2110365079|        |preset_value_fhud_defaultInventoryTab_Quest|Objetos de misión
+2110365080|        |preset_value_fhud_defaultInventoryTab_Ingredients|Ingredientes
+2110365081|        |panel_fhud_inventory|Inventario
+2110365082|        |fhud_item_quant_in_stash|en alijo
+2110365083|        |fhud_item_quant_owned|adquiridos
+2110365084|        |HoldToSeeEssentials|Mantener para ver módulos esenciales
+2110365085|        |HoldToSeeCharStats|Mantener para ver módulos del personaje
+2110365086|        |HoldToSeeMap|Mantener para ver el minimapa
+2110365087|        |HoldToSeeQuests|Mantener para ver misión activa
+2110365088|        |preset_Mods_friendly_hud_fhud_hud|Preajustes para HUD
+2110365089|        |preset_value_fhud_defaults|Default
+2110365090|        |preset_value_fhud_vanilla|Vanilla
+2110365091|        |preset_Mods_friendly_hud_fhud_markers|Preajustes de Marcadores 3D
+2110365092|        |preset_Mods_friendly_hud_fhud_quick_items|Preajustes de Objetos Rápidos
+2110365093|        |preset_Mods_friendly_hud_fhud_map|Preajustes de Mapa
+2110365094|        |preset_Mods_friendly_hud_fhud_inventory|Preajustes de Inventario
+2110365095|        |option_fhud_showTrueItemPrice|Mostrar comparación de precio entre objetos
+2110365096|        |option_fhud_stashItemQuantity|Mostrar la cantidad de objetos en alijo
+2110365097|        |preset_Mods_friendly_hud_fhud_interactions|Preajustes de Interacción
+2110365098|        |preset_Mods_friendly_hud_fhud_misc|Preajustes de Misceláneos
+2110365099|        |preset_value_fhud_compass|Brújula
+2110365101|        |option_fhud_hideJournalUpdates|Ocultar actualizaciones de misión
+2110365102|        |option_fhud_silentJournalUpdates|Sin sonido en actualizaciones de misión
+2110365103|        |option_fhud_disableCatWhenNotInDarkPlace|Pausar el efecto de "Gato" fuera de cuevas
+2110365104|        |option_fhud_enableCatAtNight|Reanudar el efecto de "Gato" en la noche
+2110365105|        |option_fhud_talkBubbleMode|Forma de mostrar burbuja de conversación de PNJs
+2110365106|        |preset_value_fhud_interactionMode_All|Todo
+2110365107|        |preset_value_fhud_interactionMode_Icon|Icono
+2110365108|        |preset_value_fhud_interactionMode_Text|Texto
+2110365109|        |preset_value_fhud_interactionMode_None|Nada
+2110365110|        |option_fhud_talkButtonMode|Forma de mostrar botón de conversación de PNJs
+2110365111|        |option_fhud_interactionButtonMode|Forma de mostrar botón de interacción de PNJs
+2110365112|        |option_fhud_hideWSInteractionIcons|Ocultar sugerencias de interacción en sentidos de brujo
+2110365113|        |option_fhud_maxDistanceToShowNames|Distancia máx. para mostrar nombres (0-vanilla)
+2110365114|        |option_fhud_hideAnimalNames|Ocultar nombres de animales
+2110365115|        |option_fhud_hideHerbNames|Ocultar nombres de hierbas
+2110365116|        |option_fhud_hideNPCQuestMarkers|Ocultar marcadores de misiones de PNJs 
+2110365117|        |panel_fhud_mainMenu|Menú Principal
+2110365118|        |option_fhud_mainMenuMode|Fondo del Menú Principal
+2110365119|        |preset_value_fhud_mainMenuMode_default|Default
+2110365120|        |preset_value_fhud_mainMenuMode_random|Aleatorio
+2110365121|        |preset_value_fhud_mainMenuMode_base|Juego base
+2110365122|        |preset_value_fhud_mainMenuMode_hos|Hearts of Stone
+2110365123|        |preset_value_fhud_mainMenuMode_baw|Blood and Wine
+2110365124|        |option_fhud_hideDLC|Ocultar imágenes de DLCs instalados
+2110365125|        |preset_value_fhud_goty|GOTY
+2110365126|        |preset_Mods_friendly_hud_fhud_mainMenu|Preajustes de Menú Principal
+2110365127|        |option_fhud_recyclingParts|Mostrar componentes de reciclaje
+2110365128|        |fhud_recycling_parts|Componentes reciclados
+2110365129|        |option_fhud_itemCountWhenCrafting|Mostrar cantidad de objetos al hacer alquimia y artesanía
+2110365130|        |option_fhud_resetNewItemsIngredients|Resetear marcador de nuevo ítem de la categoría Ingredientes
+2110365131|        |option_fhud_resetNewItemsQuest|Resetear marcador de nuevo ítem de la categoría Obj. de Misión
+2110365132|        |option_fhud_resetNewItemsOthers|Resetear marcador de nuevo ítem de la categoría Varios
+2110365133|        |option_fhud_resetNewItemsEdibles|Resetear marcador de nuevo ítem de la categoría Comestibles
+2110365134|        |option_fhud_resetNewItemsRoach|Resetear marcador de nuevo ítem de la categoría Sardinilla
+2110365135|        |option_fhud_resetNewItemsAlchemy|Resetear marcador de nuevo ítem de la categoría Alquimia
+2110365136|        |option_fhud_resetNewItemsEquipment|Resetear marcador de nuevo ítem de la categoría Equipamiento
+2110365137|        |option_fhud_markersDistanceTextSize|Tamaño del texto de distancia
+2110365138|        |option_fhud_markersDescriptionTextSize|Tamaño del texto de las descripciones
+2110365139|        |option_fhud_markersAltTextSize|Tamaño del texto alternativo
+2110365140|        |option_fhud_markersIconSizePrc|Tamaño de icono (%)
+2110365141|        |option_fhud_markerMinDistance|Distancia min. para mostrar los marcadores
+2110365142|        |option_fhud_markerMaxDistance|Distancia máx. para mostrar los marcadores
+2110365143|        |option_fhud_markerDescriptionDisplayMode|Forma de mostrar las descripciones
+2110365144|        |option_fhud_markerIconDisplayMode|Forma de mostrar los iconos
+2110365145|        |option_fhud_markerDistanceDisplayMode|Forma de mostrar la distancia
+2110365146|        |option_fhud_markerCompassDisplayMode|Forma de mostrar la brújula
+2110365147|        |option_fhud_markerOnScreenOnly|Sólo mostrar marcadores en pantalla
+2110365148|        |option_fhud_compassScreenPosY|Posición vertical de la brújula
+2110365150|        |option_fhud_markerIconType|Tipo de icono
+2110365151|        |preset_value_fhud_markerIconType_icon|Icono
+2110365152|        |preset_value_fhud_markerIconType_icon_bw|Icono b&n
+2110365153|        |preset_value_fhud_markerIconType_text|Texto
+2110365154|        |preset_value_fhud_markerIconType_text_bw|Texto b&n
+2110365155|        |option_fhud_markersFadeOutDelay|Demora al ocultar marcadores (segundos)
+2110365156|        |preset_value_fhud_minimalistic|Minimalista
+2110365157|        |option_fhud_markersShowQuests|Mostrar misión activa
+2110365158|        |option_fhud_markersShowQuestsAll|Mostrar misiones inactivas
+2110365159|        |option_fhud_markersShowUser|Mostrar marcadores del jugador
+2110365161|        |option_fhud_markersShowUserAll|Mostrar marcadores adicionales del jugador
+2110365162|        |option_fhud_markersShowMapLoc|Mostrar ubicaciones del mapa
+2110365163|        |option_fhud_markersShowNPCs|Mostrar PNJs
+2110365164|        |option_fhud_markersShowPOIs|Mostrar puntos de interés
+2110365165|        |option_fhud_markersShowDisabled|Mostrar puntos de interés completados
+2110365166|        |option_fhud_markersShowUndiscovered|Mostrar puntos de interés sin descubrir
+2110365167|        |option_fhud_markersShowMisc|Mostrar marcadores misceláneos
+2110365168|        |option_fhud_markersShowHerbs|Mostrar marcadores de hierbas
+2110365169|        |option_fhud_markersShowEnemies|Mostrar marcadores de enemigos
+2110365170|        |option_fhud_markersShowDeadEnemies|Mostrar marcadores de enemigos muertos
+2110365171|        |option_fhud_markersShowWSClues|Mostrar pistas de sentidos de brujo
+2110365172|        |preset_value_fhud_markerVisibility_show|Mostrar
+2110365173|        |preset_value_fhud_markerVisibility_hide|Ocultar
+2110365174|        |preset_value_fhud_markerVisibility_pin|Fijar
+2110365175|        |preset_value_fhud_markerVisibility_force|Forzar
+2110365176|        |Toggle3DMarkers|Forzar mostrar marcadores 3D
+2110365177|        |option_fhud_markerHideActivities|Ocultar actividades inactivas
+2110365178|        |option_fhud_markerShowUndiscoveredRoadsigns|Mostrar postes de viaje rápido sin descubrir
+2110365179|        |option_fhud_markerPinWithUserMarker|Permitir marcadores fijados por el jugador
+2110365180|        |option_fhud_markersSyncWithMap|Ocultar marcadores desactivados en el mapa
+2110365181|        |option_fhud_markersTransparency|Transparencia de los marcadores 3D (%)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|Distancia máx. para mostrar nombres en combate (0-vanilla)
+2110365183|        |preset_value_fhud_levelVisibility_show|Mostrar															   
+2110365184|        |preset_value_fhud_levelVisibility_hide|Ocultar													   
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|Icono de cráneo																			  
+2110365186|        |option_fhud_showBossHP|Mostrar la barra de HP e icono de fijación en jefes

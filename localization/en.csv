@@ -1,0 +1,163 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+;
+2110365000|        |panel_Mods|Mods
+2110365001|        |panel_friendly_hud|Friendly HUD
+2110365002|        |panel_fhud_hud|HUD
+2110365003|        |option_fhud_enableCombatModules|Enable combat modules
+2110365004|        |option_fhud_enableCombatModulesOnUnsheathe|Enable combat modules on sword unsheathe
+2110365005|        |option_fhud_enableWolfModuleOnVitalityChanged|Enable HP bar on vitality changed
+2110365006|        |option_fhud_enableWitcherSensesModules|Enable witcher senses modules
+2110365007|        |option_fhud_enableMeditationModules|Enable meditation modules
+2110365008|        |option_fhud_enableRadialMenuModules|Enable radial menu modules
+2110365009|        |panel_fhud_markers|3D markers
+2110365010|        |option_fhud_3DMarkersEnabled|Enable 3D markers
+2110365011|        |option_fhud_compassMarkersEnabled|Enable compass
+2110365012|        |option_fhud_project3DMarkersOnCompass|Project 3D markers on compass
+2110365014|        |panel_fhud_quick_items|Quick items
+2110365015|        |option_fhud_enableItemsInRadialMenu|Enable quick items in radial menu
+2110365016|        |option_fhud_enableWASD|Enable WASD selection
+2110365017|        |option_fhud_applyOilToDrawnSword|Apply oil to drawn sword
+2110365018|        |option_fhud_allowOilsInCombat|Allow applying oils in combat
+2110365019|        |option_fhud_radialMenuTimescale|Timescale for radial menu
+2110365031|        |panel_fhud_interactions|Interactions
+2110365036|        |option_fhud_disableAllInteractionPrompts|Disable all interaction prompts
+2110365038|        |panel_fhud_misc|Miscellaneous
+2110365040|        |option_fhud_doNotShowDamage|Hide floating damage information
+2110365041|        |option_fhud_doNotShowLevels|Hide enemy levels
+2110365042|        |option_fhud_dontTouchMySwords|Disallow switching and auto-sheathing of swords
+2110365046|        |option_fhud_fadeOutTimeSeconds|Modules fade out time (seconds)
+2110365049|        |panel_fhud_map|Map and minimap
+2110365050|        |option_fhud_mapUnlimitedZoom|Area map unlimited zoom
+2110365051|        |option_fhud_mapZoomMinCoef|Area map min zoom
+2110365052|        |option_fhud_mapZoomMaxCoef|Area map max zoom
+2110365053|        |option_fhud_minimapZoomExterior|Minimap exterior zoom
+2110365054|        |option_fhud_minimapZoomInterior|Minimap interior zoom
+2110365055|        |option_fhud_minimapZoomBoat|Minimap boat zoom
+2110365056|        |option_fhud_defaultDisplayMode|Default display mode
+2110365057|        |preset_value_fhud_displayMode_potions|Potions
+2110365058|        |preset_value_fhud_displayMode_bombs|Bombs
+2110365059|        |preset_value_fhud_displayMode_oils|Oils
+2110365060|        |preset_value_fhud_displayMode_buffs|Buffs
+2110365061|        |option_fhud_cycleThroughBuffs|Show active buffs when cycling
+2110365062|        |PauseGameToggle|Pause game
+2110365063|        |PinModuleModfier|Pin HUD module (modifier)
+2110365066|        |SwitchCrossbow|Switch crossbow/bomb
+2110365068|        |ToggleEssentials|Essential HUD modules on/off
+2110365070|        |preset_value_fhud_markersDisplayMode_ws|Witcher senses
+2110365071|        |preset_value_fhud_markersDisplayMode_always|Always show
+2110365072|        |preset_value_fhud_markersDisplayMode_never|Never show
+2110365073|        |option_fhud_showItemsInSlowdownMode|Show quick items in slowdown mode
+2110365074|        |option_fhud_wSensesSwitch|Witcher senses hotkey behaves like a toggle
+2110365075|        |option_fhud_defaultInventoryTab|Default inventory tab
+2110365076|        |preset_value_fhud_defaultInventoryTab_Equipment|Equipment
+2110365077|        |preset_value_fhud_defaultInventoryTab_Alchemy|Alchemy
+2110365078|        |preset_value_fhud_defaultInventoryTab_Edibles|Edibles
+2110365079|        |preset_value_fhud_defaultInventoryTab_Quest|Quest items
+2110365080|        |preset_value_fhud_defaultInventoryTab_Ingredients|Ingredients
+2110365081|        |panel_fhud_inventory|Inventory
+2110365082|        |fhud_item_quant_in_stash|in stash
+2110365083|        |fhud_item_quant_owned|owned
+2110365084|        |HoldToSeeEssentials|Hold to see essential modules
+2110365085|        |HoldToSeeCharStats|Hold to see character modules
+2110365086|        |HoldToSeeMap|Hold to see minimap
+2110365087|        |HoldToSeeQuests|Hold to see current objective
+2110365088|        |preset_Mods_friendly_hud_fhud_hud|HUD presets
+2110365089|        |preset_value_fhud_defaults|Default
+2110365090|        |preset_value_fhud_vanilla|Vanilla
+2110365091|        |preset_Mods_friendly_hud_fhud_markers|3D markers presets
+2110365092|        |preset_Mods_friendly_hud_fhud_quick_items|Quick items presets
+2110365093|        |preset_Mods_friendly_hud_fhud_map|Map presets
+2110365094|        |preset_Mods_friendly_hud_fhud_inventory|Inventory presets
+2110365095|        |option_fhud_showTrueItemPrice|Show item price comparison
+2110365096|        |option_fhud_stashItemQuantity|Show how many items you have in stash
+2110365097|        |preset_Mods_friendly_hud_fhud_interactions|Interactions presets
+2110365098|        |preset_Mods_friendly_hud_fhud_misc|Miscellaneous presets
+2110365099|        |preset_value_fhud_compass|Compass
+2110365101|        |option_fhud_hideJournalUpdates|Hide journal updates
+2110365102|        |option_fhud_silentJournalUpdates|No sound on journal updates
+2110365103|        |option_fhud_disableCatWhenNotInDarkPlace|Pause Cat effect when not in cave
+2110365104|        |option_fhud_enableCatAtNight|Unpause Cat effect at night
+2110365105|        |option_fhud_talkBubbleMode|NPC talk bubble display mode
+2110365106|        |preset_value_fhud_interactionMode_All|All
+2110365107|        |preset_value_fhud_interactionMode_Icon|Icon
+2110365108|        |preset_value_fhud_interactionMode_Text|Text
+2110365109|        |preset_value_fhud_interactionMode_None|None
+2110365110|        |option_fhud_talkButtonMode|NPC talk button display mode
+2110365111|        |option_fhud_interactionButtonMode|Interaction button display mode
+2110365112|        |option_fhud_hideWSInteractionIcons|Hide witcher senses interaction hints
+2110365113|        |option_fhud_maxDistanceToShowNames|Max distance to show names (0 - vanilla)
+2110365114|        |option_fhud_hideAnimalNames|Hide animal names
+2110365115|        |option_fhud_hideHerbNames|Hide herb names
+2110365116|        |option_fhud_hideNPCQuestMarkers|Hide NPC quest markers
+2110365117|        |panel_fhud_mainMenu|Main Menu
+2110365118|        |option_fhud_mainMenuMode|Main Menu mode
+2110365119|        |preset_value_fhud_mainMenuMode_default|Default
+2110365120|        |preset_value_fhud_mainMenuMode_random|Random
+2110365121|        |preset_value_fhud_mainMenuMode_base|Base game
+2110365122|        |preset_value_fhud_mainMenuMode_hos|Hearts of Stone
+2110365123|        |preset_value_fhud_mainMenuMode_baw|Blood and Wine
+2110365124|        |option_fhud_hideDLC|Hide installed DLC icons
+2110365125|        |preset_value_fhud_goty|GOTY
+2110365126|        |preset_Mods_friendly_hud_fhud_mainMenu|Main Menu presets
+2110365127|        |option_fhud_recyclingParts|Show item recycling components
+2110365128|        |fhud_recycling_parts|Recycling components
+2110365129|        |option_fhud_itemCountWhenCrafting|Show item count for alchemy and crafting
+2110365130|        |option_fhud_resetNewItemsIngredients|Reset new item flag for Ingredients categories
+2110365131|        |option_fhud_resetNewItemsQuest|Reset new item flag for Quest category
+2110365132|        |option_fhud_resetNewItemsOthers|Reset new item flag for Others category
+2110365133|        |option_fhud_resetNewItemsEdibles|Reset new item flag for Edibles category
+2110365134|        |option_fhud_resetNewItemsRoach|Reset new item flag for Roach category
+2110365135|        |option_fhud_resetNewItemsAlchemy|Reset new item flag for Alchemy category
+2110365136|        |option_fhud_resetNewItemsEquipment|Reset new item flag for Equipment categories
+2110365137|        |option_fhud_markersDistanceTextSize|Distance text size
+2110365138|        |option_fhud_markersDescriptionTextSize|Description text size
+2110365139|        |option_fhud_markersAltTextSize|Alternative text size
+2110365140|        |option_fhud_markersIconSizePrc|Icon size (percents)
+2110365141|        |option_fhud_markerMinDistance|Min distance to display markers
+2110365142|        |option_fhud_markerMaxDistance|Max distance to display markers
+2110365143|        |option_fhud_markerDescriptionDisplayMode|Description display mode
+2110365144|        |option_fhud_markerIconDisplayMode|Icon display mode
+2110365145|        |option_fhud_markerDistanceDisplayMode|Distance display mode
+2110365146|        |option_fhud_markerCompassDisplayMode|Compass display mode
+2110365147|        |option_fhud_markerOnScreenOnly|Show on screen markers only
+2110365148|        |option_fhud_compassScreenPosY|Compass screen position Y
+2110365150|        |option_fhud_markerIconType|Icon type
+2110365151|        |preset_value_fhud_markerIconType_icon|Icon
+2110365152|        |preset_value_fhud_markerIconType_icon_bw|Icon b&w
+2110365153|        |preset_value_fhud_markerIconType_text|Text
+2110365154|        |preset_value_fhud_markerIconType_text_bw|Text b&w
+2110365155|        |option_fhud_markersFadeOutDelay|Markers fade out time (seconds)
+2110365156|        |preset_value_fhud_minimalistic|Minimalistic
+2110365157|        |option_fhud_markersShowQuests|Show active quest
+2110365158|        |option_fhud_markersShowQuestsAll|Show inactive quests
+2110365159|        |option_fhud_markersShowUser|Show user marker
+2110365161|        |option_fhud_markersShowUserAll|Show additional user markers
+2110365162|        |option_fhud_markersShowMapLoc|Show map locations
+2110365163|        |option_fhud_markersShowNPCs|Show NPCs
+2110365164|        |option_fhud_markersShowPOIs|Show POIs
+2110365165|        |option_fhud_markersShowDisabled|Show completed POIs
+2110365166|        |option_fhud_markersShowUndiscovered|Show undiscovered POIs
+2110365167|        |option_fhud_markersShowMisc|Show miscellaneous markers
+2110365168|        |option_fhud_markersShowHerbs|Show herbs
+2110365169|        |option_fhud_markersShowEnemies|Show enemies
+2110365170|        |option_fhud_markersShowDeadEnemies|Show dead enemies
+2110365171|        |option_fhud_markersShowWSClues|Show witcher sense clues
+2110365172|        |preset_value_fhud_markerVisibility_show|Show
+2110365173|        |preset_value_fhud_markerVisibility_hide|Hide
+2110365174|        |preset_value_fhud_markerVisibility_pin|Pin
+2110365175|        |preset_value_fhud_markerVisibility_force|Force
+2110365176|        |Toggle3DMarkers|Force show 3D markers
+2110365177|        |option_fhud_markerHideActivities|Hide inactive activities
+2110365178|        |option_fhud_markerShowUndiscoveredRoadsigns|Show undiscovered roadsigns
+2110365179|        |option_fhud_markerPinWithUserMarker|Allow user-pinned markers
+2110365180|        |option_fhud_markersSyncWithMap|Hide markers disabled in area map
+2110365181|        |option_fhud_markersTransparency|Markers transparency (percents)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|Max distance to show names in combat (0 - vanilla)
+2110365183|        |preset_value_fhud_levelVisibility_show|Show
+2110365184|        |preset_value_fhud_levelVisibility_hide|Hide
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|Red Skull Only
+2110365186|        |option_fhud_showBossHP|Show normal HP bar and lock icon for bosses

@@ -1,0 +1,159 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+2110365000|4d5f8b0c||Mods
+2110365001|d82f25be||Friendly HUD
+2110365002|00331264||HUD
+2110365003|060c4b8c||Habilitar módulos de combate
+2110365004|a26f225c||Exibir módulos de combate ao desembainhar espada
+2110365005|d419e5ce||Exibir barra de HP ao alterar vitalidade
+2110365006|0a2a4395||Habilitar módulos do sentido de bruxo
+2110365007|eb228d62||Habilitar módulos de meditação
+2110365008|f8922ec2||Habilitar módulos do Menu de Acesso Rápido
+2110365009|9930f266||Marcações 3D
+2110365010|62ca41dd||Habilitar marcações 3D
+2110365011|1a014256||Habilitar bússola
+2110365012|00765780||Exibir as marcações 3D na bússola
+2110365014|e9864b5b||Menu de Acesso Rápido
+2110365015|1402fb9c||Habilitar itens no Menu de Acesso Rápido
+2110365016|0511b902||Habilitar seleção com WASD
+2110365017|2d86c856||Aplicar óleo à espada em mãos
+2110365018|86ae431f||Aplicar óleo durante combate
+2110365019|1e902a7b||Escala de tempo enquanto no Menu de Acesso Rápido
+2110365031|d5df41d4||Interações
+2110365036|c29e881a||Desabilitar avisos de interação
+2110365038|0631551f||Diversos
+2110365040|14cd4530||Ocultar informação flutuante de dano
+2110365041|22b08f30||Ocultar nível dos inimigos
+2110365042|753f742c||Impedir troca/saque automático de espadas
+2110365046|ff869ee4||Tempo até ocultar módulos (segundos)
+2110365049|003322c9||Mapa e Minimapa
+2110365050|159333bc||Zoom ilimitado no Mapa
+2110365051|a1fca5b4||Mapa: zoom mínimo
+2110365052|94e2cbc6||Mapa: zoom máximo
+2110365053|e0d227d2||Minimapa: zoom em exteriores
+2110365054|6f588ac4||Minimapa: zoom em interiores
+2110365055|09c4b854||Minimapa: zoom em embarcações
+2110365056|276a5ee8||Modo de exibição padrão
+2110365057|49fe0e66||Poções
+2110365058|305250b7||Bombas
+2110365059|c7c6697b||Óleos
+2110365060|3054f126||Efeitos
+2110365061|77355fdd||Exibir efeitos temporários no ciclo
+2110365062|7760743c||Pausar o jogo
+2110365063|1cab1b51||Fixar módulo de HUD (modificador)
+2110365066|27ca40be||Alternar entre Besta/Bombas
+2110365068|47589939||Módulos HUD Essenciais ligado/desligado
+2110365070|ac9c99af||Sentido de bruxo
+2110365071|4e947b62||Sempre exibir
+2110365072|033cead9||Nunca exibir
+2110365073|7b55b5aa||Mostrar itens rápidos no modo lento
+2110365074|f555130c||Ativar/desativar sentidos de bruxo com clique
+2110365075|fed04b96||Tabela de inventário padrão
+2110365076|14df3709||Equipamento
+2110365077|80ef313c||Alquimia
+2110365078|4733455d||Comestíveis
+2110365079|17685fdd||Itens de Quest
+2110365080|06c4a77d||Ingrendientes
+2110365081|cff71109||Inventário
+2110365082|db33e095||Na bolsa
+2110365083|6702412b||Possuído
+2110365084|c6dd4e3e||Pressione para ver os módulos essenciais
+2110365085|cdbbb090||Pressione para ver os módulos de personagem
+2110365086|74e3f023||Pressione para ver o minimapa
+2110365087|b14fefaa||Pressione para ver o objetivo atual
+2110365088|10618937||Predefinições de HUD
+2110365089|a400a052||Padrão
+2110365090|bf5d6d7b||Vanilla
+2110365091|6cd1c7b9||Predefinições de marcações 3D
+2110365092|ab463f2e||Predefinições de Itens Rápidos
+2110365093|1061999c||Predefinições de mapa
+2110365094|3eb7dd9c||Predefinições de Inventário
+2110365095|42248987||Mostrar comparação de preço de Item
+2110365096|ae78a6af||Mostrar quantos itens você tem na bolsa
+2110365097|4c1dc861||Predefinições de Interação
+2110365098|fbd1b8ac||Predefinições diversas
+2110365099|ea1fcf12||Bússola
+2110365101|11764dd9||Esconder atualizações do diário
+2110365102|d5dd9eac||Sem som nas atualizações do diário
+2110365103|40fbcea5||Pausar efeito da poção gato fora das cavernas
+2110365104|7e92a056||Despausar efeito da poção Gato a noite
+2110365105|50d2be3f||Modo de exibição das conversas de NPC
+2110365106|344e8717||Tudo
+2110365107|5585ddc3||Ícones
+2110365108|558ae677||Texto
+2110365109|55885082||Nenhum
+2110365110|5c756de5||Modo de exibição do botão de fala com NPCs
+2110365111|392b3683||Modo de exibição do botão de Interação
+2110365112|a6e42c4a||Ocultar as dicas de interação dos sentidos de bruxo
+2110365113|968133bb||Distância máxima para mostrar nomes (0 - vanilla)
+2110365114|07a2b066||Ocultar nome dos animais
+2110365115|d1e19b95||Ocultar nome das plantas
+2110365116|80358652||Ocultar marcações de missões de NPCs
+2110365117|7dbf754b||Menu principal
+2110365118|a495359f||Fundo do Menu Principal
+2110365119|fcca843d||Padrão
+2110365120|07108747||Aleatório
+2110365121|207a7a55||Jogo base
+2110365122|2a56a048||Hearts of Stone
+2110365123|2a568814||Blood and Wine
+2110365124|a580c875||Ocultar o ícone das DLC instaladas
+2110365125|b9d12f6d||GOTY
+2110365126|1e394a58||Predefinições do Menu Principal
+2110365127|2e4826b4||Mostrar componentes de reciclagem de itens
+2110365128|ed0a0f03||Reciclando componentes
+2110365129|c78811f4||Mostrar itens de alquimia e criação em ordem
+2110365130|66735857||Resetar a notificação de Itens da categoria Ingredientes
+2110365131|c8bb3c37||Resetar a notificação de Itens da categoria Missões
+2110365132|4b35aaae||Resetar a notificação de Itens da categoria Outros
+2110365133|ef407337||Resetar a notificação de Itens da categoria Comestíveis
+2110365134|c8c6887e||Resetar a notificação de Itens da categoria Carpeado
+2110365135|28fc5f16||Resetar a notificação de Itens da categoria Alquimia
+2110365136|ee585663||Resetar a notificação de Itens da categoria Equipamento
+2110365137|2b69f738||Tamanho do texto à distância
+2110365138|c0c140f5||Tamanho do texto de descrição
+2110365139|5b77b4a2||Tamanho de texto alternativo
+2110365140|e2b7edb2||Tamanho do ícone (porcentagem)
+2110365141|1ff5f0e9||Distância Min para mostrar marcações 
+2110365142|4856bdfb||Distância Max para mostrar marcações 
+2110365143|73d2fe07||Modo de exibição de descrição
+2110365144|8bd29eee||Modo de exibição de ícone
+2110365145|6b3268f2||Modo de exibição de distância
+2110365146|be839a31||Modo de exibição da bússola
+2110365147|b14030d5||Mostrar somente marcações na tela
+2110365148|b0ce9ebf||Posição Y da bússola na tela
+2110365150|83aa49d1||Tipo de ícone
+2110365151|b309c20b||Ícone
+2110365152|dc8d6f09||Ícone B&W
+2110365153|b30ecabf||Texto
+2110365154|265d39d5||Texto B&W
+2110365155|4ecd8186||Tempo para desaparecimento das marcações (segundo)
+2110365156|c1892823||Minimalista
+2110365157|06806a63||Mostrar missão ativa
+2110365158|99ddd05e||Mostrar missão inativa
+2110365159|c9efcedd||Mostrar marcações do jogador
+2110365161|99bb61a4||Mostrar marcações do jogador adicionais
+2110365162|fe9816f6||Mostrar locais do mapa
+2110365163|c9ec94c4||Mostrar NPCs
+2110365164|c9ed7a7b||Mostrar Pontos de Interesse
+2110365165|bdb3448e||Mostrar Pontos de Interesse Completos
+2110365166|4b7542b3||Mostrar Pontos de Interesse Desconhecidos
+2110365167|c9ec07fe||Mostrar marcações diversas
+2110365168|734cad54||Mostrar plantas
+2110365169|42cd49d4||Mostrar inimigos
+2110365170|3c66cdf0||Mostrar inimigos mortos
+2110365171|0369392c||Mostrar pistas dos sentidos de bruxo
+2110365172|8a4d8e90||Mostrar
+2110365173|8a4890d5||Ocultar
+2110365174|db2bbfa2||Ponto
+2110365175|beb049b8||Forçar
+2110365176|36da5af4||Forçar exibição das marcações 3D
+2110365177|fab062cd||Ocultar atividades inativas
+2110365178|7b08c4fa||Mostrar placas de estrada desconhecidas
+2110365179|8dcda502||Ativar marcação feita pelo jogador
+2110365180|7a4af526||Ocultar marcações desativadas no mapa da área
+2110365181|6e9ec76d||Transparência das marcações (porcentagens)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|Max distance to show names in combat (0 - vanilla)
+2110365183|        |preset_value_fhud_levelVisibility_show|Show
+2110365184|        |preset_value_fhud_levelVisibility_hide|Hide
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|Red Skull Only
+2110365186|        |option_fhud_showBossHP|Show normal HP bar and lock icon for bosses

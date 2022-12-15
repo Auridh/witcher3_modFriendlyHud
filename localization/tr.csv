@@ -1,0 +1,167 @@
+;meta[language=cleartext]
+; id      |key(hex)|key(str)| text
+2110365000|4d5f8b0c||Mods
+2110365001|d82f25be||Friendly HUD
+2110365002|00331264||Bilgi ekranı
+2110365003|060c4b8c||Kılıçlı savaşta modülleri aktif et
+2110365004|a26f225c||Kılıçsız savaşta modülleri aktif et
+2110365005|d419e5ce||Herhangi bir değişimde can çubuğunu etkinleştir
+2110365006|0a2a4395||Efsunger hislerinde modülleri aktif et
+2110365007|eb228d62||Meditasyonda modülleri aktif et
+2110365008|f8922ec2||Hızlı erişimde modülleri aktif et
+2110365009|9930f266||3B İşaretleyici
+2110365010|        |option_fhud_3DMarkersEnabled|Enable 3D markers
+2110365011|1a014256||Pusulayı aktif et
+2110365012|00765780||3B işaretleyiciyi pusulada göster
+2110365013|0c2c4aea||Pusulayı ekranın üst kısmında göster
+2110365014|e9864b5b||Hızlı erişim menüsü
+2110365015|1402fb9c||Hızlı erişim menüsünde eşyaları göster
+2110365016|0511b902||WASD ile seçmeyi etkinleştir
+2110365017|2d86c856||Elindeki kılıcına yağ sür
+2110365018|86ae431f||Elindeki kılıcına savaşta yağ sür
+2110365019|1e902a7b||Hızlı erişim menüsünde zaman yavaşlatma
+2110365030|0589bde8||Envanterde yeni item uyarılarını kaldır
+2110365031|d5df41d4||Etkileşimler
+2110365036|c29e881a||Bütün etkileşimleri anında deaktif et
+2110365038|0631551f||Çeşitli
+2110365039|c908d976||Mesafeyi gizle
+2110365040|14cd4530||Havada süzülen hasar bilgisini gizle
+2110365041|22b08f30||Düşman seviyesini gizle
+2110365042|753f742c||Otomatik kılıç çekme ve değiştirme devredışı
+2110365044|6fe836e2||İşaretleyiciyi mesafe ve parantez olmadan yıldız(*) olarak göster
+2110365046|ff869ee4||Modüllerin gizlenmesi için gereken zaman (saniye)
+2110365049|003322c9||Büyük ve küçük harita
+2110365050|159333bc||Yakınlaştırma sınırını kaldır
+2110365051|a1fca5b4||Büyük haritayı minimum yakınlaştırma
+2110365052|94e2cbc6||Büyük haritayı maksimum yakınlaştırma
+2110365053|e0d227d2||Küçük haritayı dıştan yakınlaştır
+2110365054|6f588ac4||Küçük haritayı içten yakınlaştır
+2110365055|09c4b854||Küçük haritayı sandalda yakınlaştır
+2110365056|276a5ee8||Varsayılan ekran modu
+2110365057|49fe0e66||İksirler
+2110365058|305250b7||Bombalar
+2110365059|c7c6697b||Yağlar
+2110365060|3054f126||Güçlendirmeler
+2110365061|77355fdd||Aktif güçlendirmeleri bitene kadar göster
+2110365062|7760743c||Oyun duraklatma
+2110365063|1cab1b51||Bilgi ekranı modülünü tuttur (modifiye)
+2110365064|8838566b||3B İşaretleyici aç/kapa
+2110365065|6c124622||Eklenebilir kişisel 3B işaretleyicisi aç/kapat
+2110365066|27ca40be||Değiştir Menzilli Silah/Bomba
+2110365068|47589939||Ana bilgi ekranı modülü aç/kapat
+2110365069|54d04eb0||İşaretleyici ekran modu
+2110365070|ac9c99af||Efsunger hisleri
+2110365071|4e947b62||Her zaman göster
+2110365072|033cead9||Hiçbir zaman gösterme
+2110365073|7b55b5aa||Yavaşlatılmış modda hızlı çekim eşyalarını göster
+2110365074|f555130c||Efsunger hisleri tuşu aç/kapa moda ayarla
+2110365075|fed04b96||Varsayılan çanta menüsü
+2110365076|14df3709||Silahlar & Zırh
+2110365077|80ef313c||Yağlar & İksirler & Bombalar
+2110365078|4733455d||Yiyecek İçecek & Kızılgöz
+2110365079|17685fdd||Görev Eşyaları & Diğer
+2110365080|06c4a77d||Zanaat & Simya
+2110365081|cff71109||Envanter
+2110365082|db33e095||tanesi zulada
+2110365083|6702412b||tanesine sahipsin
+2110365084|c6dd4e3e||Ana modülü görmek için basılı tut
+2110365085|cdbbb090||Karakter modülünü görmek için basılı tut
+2110365086|74e3f023||Küçük haritayı görmek için basılı tut
+2110365087|b14fefaa||Mevcut objektifi görmek için basılı tut
+2110365088|10618937||Bilgi ekranı ayarları
+2110365089|a400a052||Varsayılan
+2110365090|bf5d6d7b||Vanilya
+2110365091|6cd1c7b9||3B İşaretleyici ayarları
+2110365092|ab463f2e||Hızlı Eşya ayarları
+2110365093|1061999c||Harita ayarları
+2110365094|3eb7dd9c||Envanter ayarları
+2110365095|42248987||Fiyat karşılaştırmasını göster
+2110365096|ae78a6af||Zulada ne kadar eşya olduğunu göster
+2110365097|4c1dc861||Etkileşim ayarları
+2110365098|fbd1b8ac||Çeşitli ayarlar
+2110365099|ea1fcf12||Pusula
+2110365100|796abcbb||Yıldız
+2110365101|11764dd9||Günce güncellemelerini gizle
+2110365102|d5dd9eac||Günce güncellemelerinde ses çalma
+2110365103|40fbcea5||Kedi efektini mağara dışında kapat
+2110365104|7e92a056||Kedi efektini gece sürdür
+2110365105|50d2be3f||NPC konuşma balonu gösterme modu
+2110365106|344e8717||Hepsi
+2110365107|5585ddc3||Simge
+2110365108|558ae677||Yazı
+2110365109|55885082||Hiçbiri
+2110365110|5c756de5||NPC konuşma butonu gösterme modu
+2110365111|392b3683||Etkileşim butonu gösterme modu
+2110365112|a6e42c4a||Efsunger hisleri etkileşim ipuçlarını gizle
+2110365113|968133bb||İsimlerin gözükeceği maksimum uzaklık (0 - vanilya)
+2110365114|07a2b066||Hayvanların isimlerini gizle
+2110365115|d1e19b95||Otların isimlerini gizle
+2110365116|80358652||Görev NPC'si işaretleyicisini gizle
+2110365117|7dbf754b||Ana Menü
+2110365118|a495359f||Ana Menü modu
+2110365119|fcca843d||Varsayılan
+2110365120|07108747||Rastgele
+2110365121|207a7a55||Mevcut oyun
+2110365122|2a56a048||Hearts of Stone
+2110365123|2a568814||Blood and Wine
+2110365124|a580c875||Yüklü eklentilerin simgelerini gizle
+2110365125|b9d12f6d||GOTY
+2110365126|1e394a58||Ana Menü ayarları
+2110365127|        |option_fhud_recyclingParts|Show item recycling components
+2110365128|        |fhud_recycling_parts|Recycling components
+2110365129|        |option_fhud_itemCountWhenCrafting|Show item count for alchemy and crafting
+2110365130|        |option_fhud_resetNewItemsIngredients|Reset new item flag for Ingredients categories
+2110365131|        |option_fhud_resetNewItemsQuest|Reset new item flag for Quest category
+2110365132|        |option_fhud_resetNewItemsOthers|Reset new item flag for Others category
+2110365133|        |option_fhud_resetNewItemsEdibles|Reset new item flag for Edibles category
+2110365134|        |option_fhud_resetNewItemsRoach|Reset new item flag for Roach category
+2110365135|        |option_fhud_resetNewItemsAlchemy|Reset new item flag for Alchemy category
+2110365136|        |option_fhud_resetNewItemsEquipment|Reset new item flag for Equipment categories
+2110365137|        |option_fhud_markersDistanceTextSize|Distance text size
+2110365138|        |option_fhud_markersDescriptionTextSize|Description text size
+2110365139|        |option_fhud_markersAltTextSize|Alternative text size
+2110365140|        |option_fhud_markersIconSizePrc|Icon size (percents)
+2110365141|        |option_fhud_markerMinDistance|Min distance to display markers
+2110365142|        |option_fhud_markerMaxDistance|Max distance to display markers
+2110365143|        |option_fhud_markerDescriptionDisplayMode|Description display mode
+2110365144|        |option_fhud_markerIconDisplayMode|Icon display mode
+2110365145|        |option_fhud_markerDistanceDisplayMode|Distance display mode
+2110365146|        |option_fhud_markerCompassDisplayMode|Compass display mode
+2110365147|        |option_fhud_markerOnScreenOnly|Show on screen markers only
+2110365148|        |option_fhud_compassScreenPosY|Compass screen position Y
+2110365150|        |option_fhud_markerIconType|Icon type
+2110365151|        |preset_value_fhud_markerIconType_icon|Icon
+2110365152|        |preset_value_fhud_markerIconType_icon_bw|Icon b&w
+2110365153|        |preset_value_fhud_markerIconType_text|Text
+2110365154|        |preset_value_fhud_markerIconType_text_bw|Text b&w
+2110365155|        |option_fhud_markersFadeOutDelay|Markers fade out delay (seconds)
+2110365156|        |preset_value_fhud_minimalistic|Minimalistic
+2110365157|        |option_fhud_markersShowQuests|Show active quest
+2110365158|        |option_fhud_markersShowQuestsAll|Show inactive quests
+2110365159|        |option_fhud_markersShowUser|Show user marker
+2110365161|        |option_fhud_markersShowUserAll|Show additional user markers
+2110365162|        |option_fhud_markersShowMapLoc|Show map locations
+2110365163|        |option_fhud_markersShowNPCs|Show NPCs
+2110365164|        |option_fhud_markersShowPOIs|Show POIs
+2110365165|        |option_fhud_markersShowDisabled|Show completed POIs
+2110365166|        |option_fhud_markersShowUndiscovered|Show undiscovered POIs
+2110365167|        |option_fhud_markersShowMisc|Show miscellaneous markers
+2110365168|        |option_fhud_markersShowHerbs|Show herbs
+2110365169|        |option_fhud_markersShowEnemies|Show enemies
+2110365170|        |option_fhud_markersShowDeadEnemies|Show dead enemies
+2110365171|        |option_fhud_markersShowWSClues|Show witcher sense clues
+2110365172|        |preset_value_fhud_markerVisibility_show|Show
+2110365173|        |preset_value_fhud_markerVisibility_hide|Hide
+2110365174|        |preset_value_fhud_markerVisibility_pin|Pin
+2110365175|        |preset_value_fhud_markerVisibility_force|Force
+2110365176|        |Toggle3DMarkers|Force show 3D markers
+2110365177|        |option_fhud_markerHideActivities|Hide inactive activities
+2110365178|        |option_fhud_markerShowUndiscoveredRoadsigns|Show undiscovered roadsigns
+2110365179|        |option_fhud_markerPinWithUserMarker|Allow user-pinned markers
+2110365180|        |option_fhud_markersSyncWithMap|Hide markers disabled in area map
+2110365181|        |option_fhud_markersTransparency|Markers transparency (percents)
+2110365182|        |option_fhud_maxDistanceToShowNamesInCbt|Max distance to show names in combat (0 - vanilla)
+2110365183|        |preset_value_fhud_levelVisibility_show|Show
+2110365184|        |preset_value_fhud_levelVisibility_hide|Hide
+2110365185|        |preset_value_fhud_levelVisibility_showSkull|Red Skull Only
+2110365186|        |option_fhud_showBossHP|Show normal HP bar and lock icon for bosses
