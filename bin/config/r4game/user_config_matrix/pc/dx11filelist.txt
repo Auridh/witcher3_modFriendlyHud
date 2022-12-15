@@ -7,4 +7,4 @@ localization.xml;
 gamma.xml;
 display.xml;
 graphicsdx11.xml;
-modFHUDConfig.xml
+modFHUDConfig.xml;
