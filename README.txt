@@ -1,3 +1,5 @@
+!!! Temporary update for the Friendly HUD mod by wghost81 !!!
+
 modFriendlyHUD/UI
 =================
 by wghost81 aka Wasteland Ghost
@@ -122,6 +124,8 @@ Installation:
 =============
 
 It's recommended to use The Witcher 3 Mod Manager (TW3MM) available on Nexus for installing the mod. TW3MM installs all parts of the mod automatically, no additional manual steps are needed.
+
+Currently the dx11filelist.txt/dx12filelist.txt files in bin\config\r4game\user_config_matrix\pc must be replaced manually.
 
 Note that Nexus Mod Manager (NMM) doesn't support installing new menus and hotkeys, so additional manual steps are required for NMM users (see below)!
 
